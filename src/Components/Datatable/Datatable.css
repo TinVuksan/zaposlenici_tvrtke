@@ -1,0 +1,15 @@
+.tablica {
+    max-width:75vw;
+    margin:0 auto;
+    margin-top:10vh;
+    box-shadow: 1px 1px 5px 2px rgba(0,0,0,0.4);
+}
+
+td, thead {
+    text-align:center;
+}
+
+.table-buttons {
+    display:flex;
+    justify-content: space-evenly;
+}
